@@ -1,7 +1,7 @@
 import User from "../models/user.model.js";
 import bcryptjs from 'bcryptjs'; //used to encypt the password in  mongodb database
 import { errorHandler } from "../utils/error.js";
-
+//ye
 import  Jwt  from "jsonwebtoken";
 export const signup = async (req, res ,next)=>{
 
