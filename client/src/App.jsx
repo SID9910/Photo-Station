@@ -35,7 +35,7 @@ export default function Main(){
        <Route path ="/create-post" element={<CreatePost />} />
        <Route path="/update-post/:postId" element ={<UpdatePost />} />
        </Route>
-       <Route path ="/projects" element={<Projects />} />
+       {/* <Route path ="/projects" element={<Projects />} /> */}
        <Route path ="/post/:postSlug" element={<Postpage />} />
    
       </Routes>

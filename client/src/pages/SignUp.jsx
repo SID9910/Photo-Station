@@ -58,7 +58,7 @@ const navigate =useNavigate();
 
     <Link to="/" className=' font-bold dark:text-white text-4xl'>
 
-<span className='px-2 py-1 bg-gradient-to-r from-red-600 via-indigo-500 rounded '>Photo</span>Station
+<span className='px-2 py-1 bg-gradient-to-r from-red-600 via-indigo-500 rounded '>Post</span>Station
 </Link>
 
 <p className="text-sm mt-5">
